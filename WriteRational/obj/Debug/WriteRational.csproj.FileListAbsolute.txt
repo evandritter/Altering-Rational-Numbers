@@ -1,0 +1,14 @@
+C:\Users\evand\source\repos\WriteRational\bin\Debug\WriteRational.exe.config
+C:\Users\evand\source\repos\WriteRational\bin\Debug\WriteRational.exe
+C:\Users\evand\source\repos\WriteRational\bin\Debug\WriteRational.pdb
+C:\Users\evand\source\repos\WriteRational\obj\Debug\WriteRational.csprojAssemblyReference.cache
+C:\Users\evand\source\repos\WriteRational\obj\Debug\WriteRational.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\WriteRational\obj\Debug\WriteRational.exe
+C:\Users\evand\source\repos\WriteRational\obj\Debug\WriteRational.pdb
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\bin\Debug\WriteRational.exe.config
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\bin\Debug\WriteRational.exe
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\bin\Debug\WriteRational.pdb
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\obj\Debug\WriteRational.csprojAssemblyReference.cache
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\obj\Debug\WriteRational.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\obj\Debug\WriteRational.exe
+C:\Users\evand\OneDrive\Desktop\Classes\CSC205 (C#)\WriteRational\obj\Debug\WriteRational.pdb
